@@ -72,3 +72,7 @@ Power LED and speaker are externally powered via NPN transistors and a 9V source
 3. **Validation** – BMP280 confirms high temperature.
 4. **Scan** – Stepper rotates, ultrasonic sensor scans environment.
 5. **Feedback** – Results shown on LCD, RGB LEDs blink, speaker alerts.
+
+## Software Keil
+
+Keil is utilized to program and load the project.
